@@ -1,7 +1,7 @@
 # 🧠 RedAI-v4
 ## Autonomous Security Intelligence & Cognitive Attack Graph Engine
 
-RedAI-v4 è una piattaforma avanzata di security research autonoma progettata per integrare pianificazione cognitiva, esecuzione controllata, memoria persistente e modellazione di scenari di attacco.
+RedAI-v4 è una piattaforma avanzata di ricerca autonoma e analisi base code progettata per trovare vulnerabilita' e sviluppare exploits in scenari di attacco.
 
 Il sistema combina un'architettura agent-based con una pipeline di ragionamento contestuale, permettendo di costruire analisi strutturate, mantenere memoria tra le esecuzioni e migliorare progressivamente il processo decisionale.
 
@@ -233,50 +233,6 @@ Mantiene nel tempo:
 
 ---
 
-# 🧠 COGNITIVE ARCHITECTURE
-
-```
-Objective
-      │
-      ▼
-Planner
-      │
-      ▼
-Graph Builder
-      │
-      ▼
-Executor
-      │
-      ▼
-Analyzer
-      │
-      ▼
-Memory
-      │
-      ▼
-Memory Consolidator
-      │
-      ▼
-Context Builder
-      │
-      ▼
-LLM Reasoning
-      │
-      ▼
-Attack Graph Engine
-      │
-      ▼
-Reality Grounding
-      │
-      ▼
-Stability Governor
-      │
-      ▼
-Loop Engine
-```
-
----
-
 # 🚀 PERFORMANCE
 
 RedAI-v4 è progettato per beneficiare di hardware ad alte prestazioni.
@@ -320,38 +276,6 @@ Il sistema rimane comunque utilizzabile anche su hardware meno potente, con pres
 
 ---
 
-# 🚀 AVVIO
-
-```bash
-pip install -r requirements.txt
-python main.py
-```
-
-Configurare:
-
-- modello LLM
-- config.json
-- sandbox
-- tool consentiti
-
----
-
-# OUTPUT
-
-```json
-{
-  "results": [],
-  "meta": {},
-  "hypotheses": [],
-  "security_insights": [],
-  "attack_graph": {},
-  "identity": {},
-  "stability": {}
-}
-```
-
----
-
 # STATO DEL PROGETTO
 
 ✔ Autonomous Planning
@@ -386,12 +310,9 @@ Configurare:
 
 # DISCLAIMER
 
-RedAI-v4 è destinato esclusivamente a:
+RedAI-v4 è un:
 
-- security research autorizzata
-- penetration testing autorizzato
-- ambienti controllati
-- infrastrutture proprie o con autorizzazione esplicita
+- sistema proprietario utilizzato esclusivamente dalla società
 
 # DEVELOPER
 hack3rlab@proton.me
