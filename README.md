@@ -394,6 +394,6 @@ RedAI-v4 è destinato esclusivamente a:
 - infrastrutture proprie o con autorizzazione esplicita
 
 # DEVELOPER
-soluzionehack@gmail.com
+hack3rlab@proton.me
 
 
